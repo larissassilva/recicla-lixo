@@ -1,0 +1,1 @@
+$(".datepicker").attr("autocomplete", "off");
